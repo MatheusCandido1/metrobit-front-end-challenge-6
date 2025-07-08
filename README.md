@@ -4,6 +4,13 @@ A simple React project showcasing the Zeno's Paradox of Achilles and the Tortois
 Built for Metrobit using **Vite**. No additional libraries were used.
 
 ---
+## Solution
+
+![My cool GIF](assets/git01.gif)
+
+
+
+---
 
 ## 🚀 Getting Started
 
