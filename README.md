@@ -6,7 +6,7 @@ Built for Metrobit using **Vite**. No additional libraries were used.
 ---
 ## Solution
 
-![My cool GIF](assets/git01.gif)
+![GIF](assets/gif01.gif)
 
 
 
